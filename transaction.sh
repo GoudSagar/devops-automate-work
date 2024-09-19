@@ -19,3 +19,23 @@ Github Administration Part-1:
   * Tag creation and deletion
   * How to add/remove/update files and commit changes
   * How to list the commits and check details of the commits?
+Advanced Git commands:
+  * Clone
+  * Push
+  * Pull
+  * Checkout
+  * Fetch
+-----------------------------------------------------------------------------------------------------------------------------
+Fork Mechansim
+Pull Request
+Remotes
+Github Administration Part-2:
+  * General Settings of the repository
+  * collaborators - Access Management
+  * Branch protection and Restriction branches 
+  * Tag Protection
+  * Webhooks
+  * Global Settings of the Github Accounts
+Git Stash
+Git Revert
+Git Reset
